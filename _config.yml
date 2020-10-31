@@ -1,29 +1,29 @@
 # Site settings
-title: WANGPEI's Blog
-SEOTitle: 王沛的博客 | WANGPEI's Blog
+title: Qing's Blog
+SEOTitle: Qing's Blog
 header-img: img/post-bg-desk.jpg
-email: 暂无
-description: "（网站介绍）这是王沛的个人网站，目前处于测试状态，欢迎大家访问，一起交流学习."
-keyword: "WP,WANGPEI,王沛，王沛的博客"
-url: "http://xiaokeai18.github.io"          # your host, for absolute URL
+email: im.qingxia@gmail.com
+description: "勿在浮沙筑高台"
+keyword: "C++"
+url: "http://qingxia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Xiaokeai18/Xiaokeai18.github.io.git" # you code repository
+github_repo: "https://github.com/qingxia94/qingxia.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我准备在侧边栏写一句装逼的话，但是写什么还没想好~"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "万丈高楼平地起，勿在浮沙筑高台"
+sidebar-avatar: /img/ai.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     暂无
-zhihu_username:     小可爱
-github_username:    xiaokeai18
-facebook_username:  暂无
-jianshu_username:   暂无
-#twitter_username:   暂无
+# zhihu_username:     小可爱
+github_username:    qingxia94
+# facebook_username:  暂无
+# jianshu_username:   暂无
+# twitter_username:   暂无
 
 
 
