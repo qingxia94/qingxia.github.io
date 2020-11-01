@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar_photo.jpg      # use absolute URL, seeing it's used 
 # SNS settings
 RSS: false
 weibo_username:     -Aintro-
-# zhihu_username:     小可爱
+# zhihu_username:     
 github_username:    qingxia94
 # facebook_username:  暂无
 linkedin_username:   xia-qing
@@ -64,7 +64,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 6cbaa4389d74519e2e52                            #生成的clientID
   clientSecret: 9ad60699b9b111d887b1510d34418901ca1a0db2    #生成的clientSecret
   repo: xiaokeai18.github.io    #仓库名称
